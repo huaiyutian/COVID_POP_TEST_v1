@@ -1,4 +1,6 @@
 # COVID_POP_TEST_v1
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4816571.svg)](https://doi.org/10.5281/zenodo.4816571)
+
 Code for: Determining the optimal population-level testing strategy and contact tracing to curb COVID-19 resurgence
 
 ## Citation
